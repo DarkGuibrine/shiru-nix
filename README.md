@@ -1,4 +1,4 @@
-# shiru Nix Flake
+# Shiru Nix Flake
 
 This repository packages the upstream [Shiru](https://github.com/RockinChaos/Shiru) AppImage for use with Nix. The flake exports a `Shiru` package and an overlay that you can import into other flakes.
 
